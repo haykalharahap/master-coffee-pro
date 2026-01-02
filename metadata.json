@@ -1,0 +1,6 @@
+
+{
+  "name": "Master Coffee Pro",
+  "description": "A premium coffee shop application featuring Reqres API integration, authentication, and a staff directory.",
+  "requestFramePermissions": []
+}
